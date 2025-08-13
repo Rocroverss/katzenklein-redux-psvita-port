@@ -1,6 +1,6 @@
 # KatzenKlein Redux Park Vita
 
-<p align="center"><img src="./screenshots/game.png"></p>
+<p align="center"><img src="./img/IMG4.png"></p>
 
 This is a wrapper/port of <b>KatzenKlein Redux</b> for the *PS Vita*.
 
@@ -12,6 +12,14 @@ By doing so, it's basically as if we emulate a minimalist Android environment in
 ### v1.0
 
 - Initial Release.
+
+---
+
+## 🌐 Official Game Download
+
+- [gog.com](https://kalaherty.itch.io/katzenklein-redux)  
+
+---
 
 ## Setup Instructions (For End Users)
 
@@ -77,3 +85,11 @@ cmake .. && make
 - TheFloW for the original .so loader.
 - Northfear for the SDL2 fork with vitaGL as backend.
 - Rinnegatamante for the tutorial and help during the development of this port.
+
+## 📸 Screenshots
+
+![Screenshot 1](img/IMG5.png) 
+![Screenshot 2](img/IMG6.png) 
+![Screenshot 3](img/IMG7.png)  
+![Screenshot 4](img/IMG8.png)
+![Screenshot 5](img/IMG9.png)
