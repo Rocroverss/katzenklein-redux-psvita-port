@@ -17,7 +17,7 @@ By doing so, it's basically as if we emulate a minimalist Android environment in
 
 ## 🌐 Official Game Download
 
-- [gog.com](https://kalaherty.itch.io/katzenklein-redux)  
+- [itch.io](https://kalaherty.itch.io/katzenklein-redux)  
 
 ---
 
@@ -80,12 +80,6 @@ mkdir build && cd build
 cmake .. && make
 ```
 
-## Credits
-
-- TheFloW for the original .so loader.
-- Northfear for the SDL2 fork with vitaGL as backend.
-- Rinnegatamante for the tutorial and help during the development of this port.
-
 ## 📸 Screenshots
 
 ![Screenshot 1](img/IMG5.png) 
@@ -93,3 +87,10 @@ cmake .. && make
 ![Screenshot 3](img/IMG7.png)  
 ![Screenshot 4](img/IMG8.png)
 ![Screenshot 5](img/IMG9.png)
+
+## Credits
+
+- TheFloW for the original .so loader.
+- Northfear for the SDL2 fork with vitaGL as backend.
+- Rinnegatamante for the tutorial and help during the development of this port.
+
